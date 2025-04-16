@@ -16,3 +16,8 @@ approx_bounds.py
 ```
 Contact: Baojian Zhou, bjzhou@fudan.edu.cn
 
+
+To compile our project correctly, you need to run the following:
+```shell
+python setup.py build_ext --inplace
+```
